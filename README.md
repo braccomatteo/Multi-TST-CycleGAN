@@ -1,5 +1,5 @@
 # NLP Project Repository - Multistyle Text Style Transfer using GAN
-## Students: S304046 SGRILLO MICHELE - S323173 LA ROTA FRANCESCO - S319845 BRACCO MATTEO
+## Students: S319845 BRACCO MATTEO - S323173 LA ROTA FRANCESCO - S304046 SGRILLO MICHELE
 ## Introduction
 
 This GitHub repository contains files that are relevant for the Group 20 Project on Multistyle Text Style Transfer, using both the Amazon and Author datasets.
