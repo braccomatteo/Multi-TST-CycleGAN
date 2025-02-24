@@ -1,4 +1,4 @@
-# nlpproject NLP Project Repository - Multistyle Text Style Transfer using GAN
+# NLP Project Repository - Multistyle Text Style Transfer using GAN
 ## Students: S304046 SGRILLO MICHELE - S323173 LA ROTA FRANCESCO - S319845 BRACCO MATTEO
 ## Introduction
 
