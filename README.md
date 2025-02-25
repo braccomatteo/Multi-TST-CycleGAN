@@ -1,7 +1,7 @@
 # Multistyle Text Style Transfer using GAN
 ## Introduction
 
-This GitHub repository contains files that are relevant for the Group 20 Project on Multistyle Text Style Transfer, using both the Amazon and Author datasets.
+This GitHub repository contains files that are relevant to the project on Multistyle Text Style Transfer, using both the Amazon and Author datasets.
 
 In particular, the repository is divided into 2 main folders:
 1. Amazon
@@ -12,7 +12,7 @@ Both folders contain:
 2. Colab Jupyter notebooks that were used to produce datasets, train classifiers, and train GANs.
 3. Output CSV files.
 
-*Note:* The Colab-specific paths have not been updated and are still set to the last version we used. For reproducibility purposes, they need to be updated.
+*Note:* The Colab-specific paths have not been updated and are still set to the last version used. For reproducibility purposes, they need to be updated.
 
 ## Amazon Dataset
 
