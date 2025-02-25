@@ -1,7 +1,7 @@
 # Multistyle Text Style Transfer using GAN
 ## Introduction
 
-This GitHub repository contains files that are relevant to Multistyle Text Style Transfer, using both the Amazon and Author datasets.
+This GitHub repository contains files that are relevant to this project on Multistyle Text Style Transfer, using both the Amazon and Author datasets.
 
 In particular, the repository is divided into 2 main folders:
 1. Amazon
